@@ -36,7 +36,7 @@
 - (void)generateAndSaveToFile:(int)seed {
     MersenneTwister *mersenneTwister = [[MersenneTwister alloc] initWithSeed:seed];
     
-    NSString* filePath = @"output";
+    NSString* filePath = @"output.bin";
     
     // generate first number and save it into new file
     int generatedInteger = [mersenneTwister random];
