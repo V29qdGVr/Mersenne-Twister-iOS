@@ -20,7 +20,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IpO-4W-gnR">
                                 <rect key="frame" x="78" y="357" width="218.99999999999977" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="GENERATE 10 MILLIONS BYTES"/>
+                                <state key="normal" title="GENERATE 10 MILLION BYTES"/>
                                 <connections>
                                     <action selector="generateButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dma-8i-LdU"/>
                                 </connections>
